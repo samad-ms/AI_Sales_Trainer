@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 openai
-langchain
 langchain-openai
 python-dotenv
 faiss-cpu
@@ -9,3 +8,5 @@ PyPDF2
 python-docx
 chromadb
 websockets
+langchain>=0.1.14
+
