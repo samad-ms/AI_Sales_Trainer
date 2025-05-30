@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+langchain
+langchain-openai
+python-dotenv
+faiss-cpu
+PyPDF2
+python-docx
+chromadb
+websockets
