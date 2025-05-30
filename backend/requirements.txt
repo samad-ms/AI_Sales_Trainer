@@ -10,6 +10,6 @@ chromadb
 langchain>=0.1.14
 langchain-community
 websockets
-
+python-multipart
 
 
