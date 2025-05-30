@@ -1,5 +1,5 @@
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_community.vectorstores import Chroma
 from langchain.text_splitter import CharacterTextSplitter
 
 def build_vector_store(text):
