@@ -9,4 +9,5 @@ python-docx
 chromadb
 websockets
 langchain>=0.1.14
+langchain-community
 
